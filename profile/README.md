@@ -31,5 +31,6 @@ openclix-init
 ## Links
 
 - Main repository: https://github.com/openclix/openclix
-- Docs: https://openclix.ai
+- Home: https://openclix.ai
+- Docs: https://docs.openclix.ai
 - Organization: https://github.com/openclix
